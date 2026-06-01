@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Cride",
+  "description": "Your premium outstation and local cab booking companion. Styled with modern taxi aesthetics, offering outstation, local package rentals, and airport transfers with real-time ride tracking simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
